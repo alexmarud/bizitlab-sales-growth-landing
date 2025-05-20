@@ -32,7 +32,7 @@ const Contacts = () => {
         
         <div className="max-w-2xl mx-auto mt-12">
           <div className="text-center">
-            <h3 className="text-xl font-bold mb-8 reveal">ИП Марудов Александр Вячеславович</h3>
+            <h3 className="text-xl font-bold mb-8 reveal">ИП Марудов Александр Владимирович</h3>
             
             <div className="space-y-6">
               <div className="flex items-center justify-center mb-4 reveal">

@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react';
 import { Mail, Navigation, Phone } from "lucide-react";
 
@@ -42,6 +41,18 @@ const Contacts = () => {
                   className="text-lg hover:text-bizitblue transition-colors"
                 >
                   +7 916 702-15-79
+                </a>
+              </div>
+              
+              <div className="flex items-center justify-center mb-4 reveal">
+                <Navigation size={24} className="mr-3 text-bizitblue" />
+                <a 
+                  href="https://www.bizitlab.ru" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-lg hover:text-bizitblue transition-colors"
+                >
+                  www.bizitlab.ru
                 </a>
               </div>
               
